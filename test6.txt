@@ -1,2 +1,3 @@
 test bug
 add /usr/bin/env
+add coding:utf-8
